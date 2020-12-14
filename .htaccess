@@ -1,5 +1,5 @@
-#remove html file extension http://127.0.0.1:5500/index.html
-# to http://127.0.0.1:5500/cool
+#remove html file extension https://practical-snyder-bcff49.netlify.app/index.html
+# to https://practical-snyder-bcff49.netlify.app/bams
 RewriteEngine On 
 RewriteCond %{REQUEST_FILENAME} !-d 
 RewriteCond %{REQUEST_FILENAME} !-f 
